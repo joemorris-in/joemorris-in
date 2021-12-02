@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Joseph Morris
+- 👀 I’m interested in Programming, Design, Multimedia and all types of graphics.
+- 🌱 I’m currently learning Web Hosting and wordpress
